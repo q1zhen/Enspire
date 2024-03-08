@@ -43,7 +43,7 @@ dependencies:
     version: 2.9.1
   radix-vue:
     specifier: ^1.4.8
-    version: 1.5.0(vue@3.4.21)
+    version: 1.5.1(vue@3.4.21)
   tailwind-merge:
     specifier: ^2.2.1
     version: 2.2.1
@@ -8057,8 +8057,8 @@ packages:
     engines: {node: '>=8'}
     dev: false
 
-  /radix-vue@1.5.0(vue@3.4.21):
-    resolution: {integrity: sha512-kjWp5D+UyJCylwnVhPgJMhf4/7Sc4PxJ0Mdn2Mlr3BkO2VYDNQ6WwiI241IgmVMdRTY7uB9fpdt0HaMUMX6N6w==}
+  /radix-vue@1.5.1(vue@3.4.21):
+    resolution: {integrity: sha512-9zsWk9iTA29pjk7wl4e9PqaWpOQCuf4i3q0ISohDQl/TAr44CBt8d48FKKssthvrNIvln17XpnG5XWt8v+RMBw==}
     dependencies:
       '@floating-ui/dom': 1.6.3
       '@floating-ui/vue': 1.0.6(vue@3.4.21)
